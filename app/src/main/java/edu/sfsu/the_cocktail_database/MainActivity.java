@@ -15,6 +15,7 @@ import edu.sfsu.the_cocktail_database.models.DataModel;
 
 public class MainActivity extends AppCompatActivity {
 
+// test remove after commit
     private static final String url = "https://thecocktaildb.com/api/json/v1/1/search.php?f=c";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
