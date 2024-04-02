@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
 // test remove after commit
 
-    // https://github.com/weatherpub/The-Cocktail-Database.git
+    // https://github.com/weatherpub/The-Cocktail-Database.git  - patrick
     private static final String url = "https://thecocktaildb.com/api/json/v1/1/search.php?f=c";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
