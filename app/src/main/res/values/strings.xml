@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">The-Cocktail-Database</string>
+    <!-- Fragments -->
+    <string name="drink_fragment">Drink Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string-array name="fruit">
+        <item>Grapes</item>
+        <item>Peaches</item>
+    </string-array>
 </resources>

@@ -25,5 +25,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/recyclerView" />
+        <!-- ViewPager: allows swiping 4.4.24-->
+        <androidx.viewpager.widget.ViewPager android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
